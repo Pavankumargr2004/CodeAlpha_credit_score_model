@@ -71,5 +71,5 @@ We use the **German Credit Dataset (UCI Repository)**:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/creditworthiness-prediction.git
-   cd creditworthiness-prediction
+   git clone https://github.com/Pavankumargr2004/CodeAlpha_credit_score_model.git
+   cd CodeAlpha_credit_score_model
